@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abarnajo
-- 👀 I’m interested in ...data anlytics 
+- 👀 I’m interested in ...data analytics 
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
